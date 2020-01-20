@@ -1,6 +1,19 @@
 # AllArtistry
 太吾绘卷多周目护肝存档，全技艺
 
+### 用法
+1. 点击绿色的“clone or download”按钮，选择“Download ZIP”
+2. 下载后解压到`%你的steam库目录%\SteamLibrary\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1`
+
+解压后的Date_1文件夹里面应该是这个样子：
+```bash
+Date_1
+├── 2020012008125417
+├── 2020012008180173
+├── 2020012008200532
+└── index
+```
+
 ### 细节
 - 角色名：古手梨花
 - 出生地：武当 山岳
