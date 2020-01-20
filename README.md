@@ -1,19 +1,6 @@
 # AllArtistry
 太吾绘卷多周目护肝存档，全技艺
 
-### 用法
-1. 点击绿色的“clone or download”按钮，选择“Download ZIP”
-2. 下载后解压到`%你的steam库目录%\SteamLibrary\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1`
-
-解压后的Date_1文件夹里面应该是这个样子：
-```bash
-Date_1
-├── 2020012008125417
-├── 2020012008180173
-├── 2020012008200532
-└── index
-```
-
 ### 细节
 - 角色名：古手梨花
 - 出生地：武当 山岳
@@ -27,3 +14,16 @@ Date_1
 - 人物特性：处暑 闪避+ 拆招++ 卸力- 梦境中人（没点璞玉韬光和神风敛采，觉得低可以造个阅经阁）
 - 资质：双均衡，10-0-0开局，所以资质都不高（觉得低可以造个轮回台）
 - 缺少剑冢：以向，凤凰
+
+### 用法
+1. 点击绿色的“clone or download”按钮，选择“Download ZIP”
+2. 下载后解压到`%你的steam库目录%\SteamLibrary\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1`
+
+解压后的Date_1文件夹里面应该是这个样子：
+```bash
+Date_1
+├── 2020012008125417
+├── 2020012008180173
+├── 2020012008200532
+└── index
+```
