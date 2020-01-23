@@ -16,8 +16,7 @@
 - 缺少剑冢：以向，凤凰
 
 ### 用法
-1. 点击绿色的“clone or download”按钮，选择“Download ZIP”
-2. 下载后解压到`%你的steam库目录%\SteamLibrary\steamapps\common\The Scroll Of Taiwu\The Scroll Of Taiwu Alpha V1.0_Data\SaveFiles\Date_1`
+到[release](https://github.com/z2058550226/AllArtistry/releases)里面直接下载即可
 
 解压后的Date_1文件夹里面应该是这个样子：
 ```bash
@@ -25,4 +24,3 @@ Date_1
 ├── 2020012008200532
 └── index
 ```
-然后就可以玩了，这里用的是1号存档的位置，如果之前有一号存档可以备份一下然后删掉，或者是用`Date_2`或者`Date_3`
